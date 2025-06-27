@@ -1,7 +1,7 @@
 
 #  Password Strength Analyzer with Custom Wordlist Generator
 
-This is a simple Python-based cybersecurity tool built as part of an internship project. It includes:
+This is a Python-based cybersecurity tool project. It includes:
 
 - A **password strength analyzer** using `zxcvbn`, which evaluates passwords and provides feedback.
 - A **custom wordlist generator** that creates realistic password variations based on user input (e.g., name, pet name, birth year, etc.).
